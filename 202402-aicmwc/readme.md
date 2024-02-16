@@ -1,5 +1,8 @@
 # AI, Cloud and Modern Workplace Conference 2024
 
+<p align="center">
+  <img src="[https://images2.imgbox.com/d2/ac/Hz8cf39E_o.jpg](https://raw.githubusercontent.com/cyb3rmik3/presentations/main/202402-aicmwc/MichalisMichalos-KQL-aicmwc.jpg)">
+</p>
 
 ### References and Notes
 
