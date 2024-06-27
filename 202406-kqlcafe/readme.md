@@ -1,4 +1,4 @@
-# AI, Cloud and Modern Workplace Conference 2024
+# KQL Cafe, June 2024
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cyb3rmik3/presentations/main/202406-kqlcafe/MichalisMichalos-KQLCafe.jpg">
