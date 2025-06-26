@@ -1,7 +1,7 @@
 # Microsoft 365 Security & Compliance User Group
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyb3rmik3/presentations/main/2202506-m365scug/MichalisMichalos-m365scug.png">
+  <img src="https://raw.githubusercontent.com/cyb3rmik3/presentations/main/202506-m365scug/MichalisMichalos-m365scug.png">
 </p>
 
 ### References and Notes
