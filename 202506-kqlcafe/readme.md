@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/cyb3rmik3/presentations/main/202406-kqlcafe/MichalisMichalos-KQLCafe.jpg">
 </p>
 
-### Vi
+### ### Video recording of the presentation
 
 - https://www.youtube.com/watch?v=Yna97PlIX18
 
