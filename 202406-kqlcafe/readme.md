@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/cyb3rmik3/presentations/main/202406-kqlcafe/MichalisMichalos-KQLCafe.jpg">
 </p>
 
+### Video recording of the presentation
+
+- https://www.youtube.com/watch?v=Ts8EPurTwpk
+
 ### References and Notes
 
 - https://www.michalos.net/2024/06/25/keeping-an-eye-on-wsl-through-microsoft-defender-for-endpoint/
