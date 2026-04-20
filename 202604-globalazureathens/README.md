@@ -1,7 +1,7 @@
 # Global Azure Athens 2026
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyb3rmik3/presentations/main/202604-globalazureathens/from-phish-to-privilege-how-threat-actors-attack-azure.jpeg">
+  <img src="https://raw.githubusercontent.com/cyb3rmik3/presentations/main/202604-globalazureathens/from-phish-to-privilege-how-threat-actors-attack-azure.png">
 </p>
 
 ### References and Notes
