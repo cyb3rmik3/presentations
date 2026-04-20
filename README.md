@@ -2,6 +2,7 @@
 
 | What? | Where? | When? | Presenation |
 | --- | --- | --- | --- |
+| Global Azure Athens 2026 | In-person, Athens, GR | 04/2026 | [From phish to privilege, how threat actors attack Azure](https://github.com/cyb3rmik3/presentations/tree/main/202604-globalazureathens) |
 | Microsoft 365 Security & Compliance User Group | Online | 06/2025 | [Shedding Light to Uncovered Vulnerabilities with the Defender Vulnerability Management Add-on](https://github.com/cyb3rmik3/presentations/tree/main/202506-m365scug) |
 | KQL Cafe, May 2025 | Online | 05/2025 | [KQL Cafe, May 2025](https://www.youtube.com/watch?v=Yna97PlIX18) |
 | AI, Cloud and Modern Workplace Conference 2025 | Online | 02/2025 | [Elevating Regulatory Compliance with Microsoft's SIEM and XDR Technologies Powered by Actionable Threat Intelligence](https://github.com/cyb3rmik3/presentations/tree/main/202502-aicmwc2025) |
